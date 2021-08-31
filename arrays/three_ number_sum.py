@@ -1,3 +1,4 @@
+#O(n^2) time| O(n) space
 def threeNumberSum(array, target):
     array.sort()
     triplets=[]
